@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "637D9A4E1E30FC3A00AAC814"
+               BlueprintIdentifier = "B61C32C71BA4A6340055C5E5"
                BuildableName = "Table Cells.app"
                BlueprintName = "Table Cells"
                ReferencedContainer = "container:Table Cells.xcodeproj">
@@ -28,31 +28,11 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "637D9A621E30FC3A00AAC814"
-               BuildableName = "Table CellsTests.xctest"
-               BlueprintName = "Table CellsTests"
-               ReferencedContainer = "container:Table Cells.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "637D9A6D1E30FC3A00AAC814"
-               BuildableName = "Table CellsUITests.xctest"
-               BlueprintName = "Table CellsUITests"
-               ReferencedContainer = "container:Table Cells.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "637D9A4E1E30FC3A00AAC814"
+            BlueprintIdentifier = "B61C32C71BA4A6340055C5E5"
             BuildableName = "Table Cells.app"
             BlueprintName = "Table Cells"
             ReferencedContainer = "container:Table Cells.xcodeproj">
@@ -75,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "637D9A4E1E30FC3A00AAC814"
+            BlueprintIdentifier = "B61C32C71BA4A6340055C5E5"
             BuildableName = "Table Cells.app"
             BlueprintName = "Table Cells"
             ReferencedContainer = "container:Table Cells.xcodeproj">
@@ -94,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "637D9A4E1E30FC3A00AAC814"
+            BlueprintIdentifier = "B61C32C71BA4A6340055C5E5"
             BuildableName = "Table Cells.app"
             BlueprintName = "Table Cells"
             ReferencedContainer = "container:Table Cells.xcodeproj">
